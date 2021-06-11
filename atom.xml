@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-10-24T11:13:58.204Z</updated>
+  <updated>2021-06-11T13:28:43.003Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>a</title>
+    <link href="http://yoursite.com/2021/06/11/a/"/>
+    <id>http://yoursite.com/2021/06/11/a/</id>
+    <published>2021-06-11T13:28:42.000Z</published>
+    <updated>2021-06-11T13:28:43.003Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2021/01/27/test/"/>
+    <id>http://yoursite.com/2021/01/27/test/</id>
+    <published>2021-01-27T05:13:41.000Z</published>
+    <updated>2021-01-27T05:22:16.500Z</updated>
+    
+    <content type="html"><![CDATA[<p>$$math$$</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;$$math$$&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>那不勒斯四部曲</title>
